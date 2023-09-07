@@ -1,13 +1,16 @@
-# 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02F76A&width=435&lines=Try...;Try%2C+Try...;Stay+Hard+!!)](https://git.io/typing-svg)
+
+#  About Me:
 Passionate about Pentesting, 20 years old from Dominican Republic.
 
-# 🌐 Socials:
+#  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mhil4ne)
 
-# 💻 Programing Languages:
+#  Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br><br>
 
-# 👨‍💻 Tools
+#  Tools
 <br><br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" alt="Parrot" width="50" />
